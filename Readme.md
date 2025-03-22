@@ -28,7 +28,6 @@ The Identity Reconciliation Service provides an API endpoint that:
 
    ```
    git clone https://github.com/your-username/identity-reconciliation.git
-   cd identity-reconciliation
    ```
 
 2. Install dependencies:
